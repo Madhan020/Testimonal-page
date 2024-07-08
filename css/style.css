@@ -1,0 +1,9 @@
+.a{
+    background-color: orangered;
+}
+.b{
+    display: flex;
+    margin: 50px;
+    background-color: white;
+}
+.c{display: flex;}
